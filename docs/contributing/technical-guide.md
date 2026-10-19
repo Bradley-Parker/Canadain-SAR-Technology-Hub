@@ -30,6 +30,7 @@ The technical design prioritizes **extreme portability, zero hosting cost, and z
 │       └── validate-pr.yml    # Build validation and link checking for PRs
 ├── docs/                      # Pure Markdown content
 │   ├── index.md               # Site homepage
+│   ├── whats-new.md           # Reverse-chronological changelog & updates
 │   ├── tags.md                # Generated tag index
 │   ├── downloads/             # Attachment library guide
 │   ├── contributing/          # Community, editorial, and technical guides

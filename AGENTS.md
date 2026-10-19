@@ -62,6 +62,7 @@ To protect the read-first user persona from technical clutter, maintain a strict
 
 ### Content Hierarchy
 - `docs/resources/<category>/`: Pure operational guides, tool overviews, and field reviews. **Zero discussion of Git, Markdown compilation, or repository infrastructure.**
+- `docs/whats-new.md`: Reverse-chronological dated log capturing major operational resource additions and revisions, with direct links to the articles and git diffs.
 - `docs/downloads/`: Straightforward download directory for non-text operational files (.gpx, .geojson, .docx, .xlsx, .pdf).
 - `docs/contributing/`: Dedicated home for all contributor guidance:
   - `docs/contributing/index.md`: Friendly overview on how to suggest edits or submit tools.
@@ -69,6 +70,20 @@ To protect the read-first user persona from technical clutter, maintain a strict
   - `docs/contributing/technical-guide.md`: Deeper technical details (how GitHub Pages, MkDocs, frontmatter, and GitHub Actions work) kept cleanly tucked inside.
   - `docs/contributing/template.md`: Frontmatter and markdown template for new entries.
   - `docs/contributing/taxonomy.md`: Accepted categories, tags, and province codes.
+
+### 📰 "What's New" & Changelog Protocol
+To keep search managers and practitioners up-to-date with field-proven developments:
+- **Location**: All updates are maintained in `docs/whats-new.md` in reverse chronological order.
+- **Inclusion Criteria**: Record only **major operational changes**:
+  - New resource pages or newly added downloadable operational files (GPX, GeoJSON, checklists).
+  - Substantial revisions to existing guides (e.g., revised radio plans, updated safety warnings, updated battery benchmarks).
+  - *Do NOT record*: Minor typo fixes, style adjustments, dependency updates, or site infrastructure tweaks.
+- **Entry Structure**:
+  - Date header (e.g., `### YYYY-MM-DD` or monthly group).
+  - Quick 1-2 sentence operational summary describing what changed and why it matters in the field.
+  - Direct link to the updated article: `[:material-arrow-right-circle: Resource Name](path/to/resource.md)`.
+  - Link to git commit or PR diff: `[:octicons-git-compare-16: View Commit / Diff](https://github.com/Bradley-Parker/Canadain-SAR-Technology-Hub/commit/<sha>)` or `[:octicons-git-pull-request-16: PR #X](https://github.com/Bradley-Parker/Canadain-SAR-Technology-Hub/pull/X)`.
+- **Frontmatter Maintenance**: Whenever an existing resource is updated, always bump its `date_updated: YYYY-MM-DD` frontmatter field.
 
 ### Frontmatter Standard
 Every resource document under `docs/resources/` must start with clean YAML frontmatter:

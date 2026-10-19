@@ -86,6 +86,9 @@ If you prefer not to touch Markdown, open a **[New Resource Submission Issue](ht
   You don't need Python to contribute, but if you want to preview the site locally on your computer:
   ```bash
   pip install -r requirements.txt
+  ```
+  then
+  ```bash
   mkdocs serve
   ```
   Then open `http://127.0.0.1:8000` in your web browser.
