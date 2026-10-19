@@ -56,3 +56,15 @@ Technology must be evaluated with Canadian search conditions in mind:
 - **Harsh Environments**: Sub-zero winter operations, extreme wet coastal weather, and remote wilderness where power and communications are absent.
 - **Interoperability**: Compatibility with Canadian mutual aid partners, provincial tasking agencies (e.g. RCMP, OPP, Sûreté du Québec, Parks Canada), and national guidelines (CSA Z1620).
 - **Cost Realities**: Most Canadian GSAR teams are volunteer-based non-profits operating on limited grant funding and community donations. Affordability, licensing models, and long-term maintenance costs are critical considerations.
+
+---
+
+## 5. Plain Language & Accessible Writing (The "Ground Searcher" Rule)
+
+Search and rescue volunteers come from every walk of life—carpenters, students, nurses, accountants, and retirees. Content on this site should read like a clear Canadian community newspaper or a Parks Canada field guide:
+
+- **Target Grade 6–8 Reading Level**: Use short sentences, everyday words, and clear explanations.
+- **No Corporate or Tech Jargon**: Never use consultant buzzwords like *"highest-leverage operational improvements"*, *"streamlining synergies"*, *"holistic paradigms"*, or *"provisioning"*.
+- **Speak Plainly**: Say *"set up"* instead of *"provision"*, *"use"* instead of *"leverage"*, and *"work together"* instead of *"interoperability"*.
+- **Explain Acronyms**: When you use a SAR term like *LKP* (Last Known Point) or *ICP* (Incident Command Post), explain it briefly the first time you use it.
+

@@ -49,10 +49,18 @@ Content should respect the operational realities of Canadian search and rescue:
 
 ## 3. Voice, Tone & Writing Style
 
-- **Operational & Pragmatic**: Write concisely, clearly, and authoritatively. Use terminology common to Canadian SAR (e.g., *POD*, *POA*, *LPB*, *Hasty Search*, *ICP*, *Tasking*).
-- **Constructive & Objective**: Evaluate technology objectively. Focus on *fit for purpose* rather than broad praise or condemnation.
-- **Accessible Language**: Avoid unnecessary technical jargon. When specialized terms or acronyms are used, explain them on first reference. Write in plain english and avoid overly complex sentence structures.
-- **Safety Conscious**: When describing field procedures or equipment deployment, adhere to standard Canadian SAR safety margins and command protocols.
+### 📰 Plain Language & Readability Standard (The "Ground Searcher" Rule)
+Content must be accessible, warm, and practical for Canadians of all backgrounds, ages, and education levels—from an 18-year-old student recruit to a 60-year-old retired teacher serving as Search Manager. Write like a clear Canadian community newspaper or a practical Parks Canada field handbook, **never like a tech startup pitch, corporate board room, or academic paper**.
+
+- **Plain Everyday English (Target Grade 6–8 Reading Level)**:
+  - Keep sentences short and direct.
+  - Choose simple, familiar words over complex ones (e.g., use *set up* instead of *provision*, *use* instead of *leverage*, *work together* instead of *interoperability*, *method* instead of *modality*).
+  - Use active voice: *"Search managers can copy this template"* instead of *"This template can be leveraged by incident management personnel"*.
+- **Strictly Ban Corporate, Consultant & Tech Buzzwords**:
+  - Never use phrases like *"highest-leverage operational improvements"*, *"streamline workflows"*, *"holistic paradigms"*, *"force multiplier"*, or *"optimize operational synergies"*.
+  - If a sentence sounds like it belongs in a business pitch deck or a software press release, strip it down to plain field talk.
+- **Operational & Pragmatic**: Use common Canadian SAR terms naturally (*LKP*, *IPP*, *POA*, *POD*, *Hasty Search*, *ICP*, *Tasking*), but explain them briefly on first mention so newer volunteers are never left behind.
+- **Objective & Tested**: Give honest, practical advice based on real deployments. Focus on what works, what breaks in the cold, and how to keep things simple when people are tired at 03:00.
 
 ---
 
