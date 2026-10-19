@@ -1,0 +1,83 @@
+site_name: Canadian SAR Technology Hub
+site_description: A community-maintained directory of Canadian Ground Search and Rescue resources, technology, training materials, procedures, and reference content.
+site_author: Canadian GSAR Community
+site_url: https://bradley-parker.github.io/Canadain-SAR-Technology-Hub/
+repo_name: Bradley-Parker/Canadain-SAR-Technology-Hub
+repo_url: https://github.com/Bradley-Parker/Canadain-SAR-Technology-Hub
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  language: en
+  palette:
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep orange
+      accent: red
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep orange
+      accent: red
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.action.edit
+    - content.action.view
+    - content.code.copy
+
+plugins:
+  - search
+  - tags
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - tables
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - md_in_html
+  - toc:
+      permalink: true
+
+nav:
+  - Home: index.md
+  - Resources:
+      - Mapping & GIS: resources/mapping-gis/index.md
+      - Communications: resources/communications/index.md
+      - Search Management: resources/search-management/index.md
+      - Field Hardware: resources/field-hardware/index.md
+      - Training & Standards: resources/training-standards/index.md
+      - Medical & Evacuation: resources/medical-evacuation/index.md
+  - Contributing:
+      - Community Contribution Guide: contributing/index.md
+      - Editorial Standards & Values: contributing/editorial-standards.md
+      - Resource Page Template: contributing/template.md
+      - Tags & Taxonomy: contributing/taxonomy.md
+      - Technical Architecture: contributing/technical-guide.md
+      - File Downloads: contributing/file-downloads.md
+  - Tags Index: tags.md

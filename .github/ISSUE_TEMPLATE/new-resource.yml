@@ -1,0 +1,75 @@
+name: Propose a New SAR Resource
+description: Share a tool, template, procedure, or piece of technology for Canadian Ground Search and Rescue.
+title: "[New Resource]: "
+labels: ["resource-submission"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for contributing to the Canadian SAR Technology Hub! 
+        Fill out this form to share a resource. Maintainers will format it into a Markdown entry or you can submit a PR directly.
+
+  - type: input
+    id: resource_title
+    attributes:
+      label: Resource Name / Title
+      placeholder: "e.g., CalTopo GSAR Incident Template, Radio Codeplug Standard, etc."
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Primary Category
+      options:
+        - "Mapping & GIS"
+        - "Communications"
+        - "Search Management"
+        - "Field Hardware"
+        - "Training & Standards"
+        - "Medical & Evacuation"
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: jurisdiction
+    attributes:
+      label: Applicable Province / Jurisdiction
+      description: Where is this tool or procedure relevant?
+      options:
+        - label: National (All of Canada)
+        - label: British Columbia (BC)
+        - label: Alberta (AB)
+        - label: Saskatchewan (SK)
+        - label: Manitoba (MB)
+        - label: Ontario (ON)
+        - label: Quebec (QC)
+        - label: New Brunswick (NB)
+        - label: Nova Scotia (NS)
+        - label: Prince Edward Island (PE)
+        - label: Newfoundland & Labrador (NL)
+        - label: Yukon (YT)
+        - label: Northwest Territories (NT)
+        - label: Nunavut (NU)
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Short Summary & Purpose
+      description: What is this technology or resource, and how does it help SAR teams?
+      placeholder: "Explain what this does, who should use it, and what problem it solves..."
+    validations:
+      required: true
+
+  - type: input
+    id: links
+    attributes:
+      label: Relevant Links
+      description: Links to project websites, GitHub repos, external documentation, or guides.
+      placeholder: "https://..."
+
+  - type: textarea
+    id: attachments
+    attributes:
+      label: Attached Files or Blobs
+      description: Drag and drop files here (e.g. .gpx, .kml, .geojson, .docx, .xlsx, .pdf, or screenshots).
