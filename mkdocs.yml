@@ -30,8 +30,7 @@ theme:
     - navigation.instant
     - navigation.tracking
     - navigation.tabs
-    - navigation.sections
-    - navigation.expand
+    - navigation.indexes
     - navigation.top
     - search.suggest
     - search.highlight
@@ -67,7 +66,9 @@ markdown_extensions:
 nav:
   - "What's New": whats-new.md
   - Resources:
-      - Mapping & GIS: resources/mapping-gis/index.md
+      - Mapping & GIS:
+          - resources/mapping-gis/index.md
+          - CalTopo Incident Map Template: resources/mapping-gis/caltopo-sar-incident-template.md
       - Communications: resources/communications/index.md
       - Search Management: resources/search-management/index.md
       - Field Hardware: resources/field-hardware/index.md

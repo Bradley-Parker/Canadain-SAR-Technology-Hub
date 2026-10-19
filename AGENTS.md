@@ -50,7 +50,7 @@ Content should respect the operational realities of Canadian search and rescue:
 ## 3. Voice, Tone & Writing Style
 
 ### 📰 Plain Language & Readability Standard (The "Ground Searcher" Rule)
-Content must be accessible, warm, and practical for Canadians of all backgrounds, ages, and education levels—from an 18-year-old student recruit to a 60-year-old retired teacher serving as Search Manager. Write like a clear Canadian community newspaper or a practical Parks Canada field handbook, **never like a tech startup pitch, corporate board room, or academic paper**.
+Content must be accessible, warm, and practical for Canadians of all backgrounds, ages, and education levels—from an 18-year-old student recruit to a 60-year-old retired teacher serving as Search Manager. Write like a clear Canadian community newspaper or a government document for citizens, **never like a tech startup pitch, corporate board room, or academic paper**.
 
 - **Plain Everyday English (Target Grade 6–8 Reading Level)**:
   - Keep sentences short and direct.

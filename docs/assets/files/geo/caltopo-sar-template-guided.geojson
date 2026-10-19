@@ -1,0 +1,291 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "1057064f-85d0-4ec3-8f54-46e5289556a0",
+      "geometry": null,
+      "properties": {
+        "title": "01 Critical Points",
+        "class": "Folder",
+        "visible": true,
+        "labelVisible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5a130ab5-098c-4374-9c75-2adf020bbe87",
+      "geometry": null,
+      "properties": {
+        "title": "02 Local Knowledge",
+        "class": "Folder",
+        "visible": true,
+        "labelVisible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "70bc39d2-7831-4b74-894d-4f7cd3f58092",
+      "geometry": null,
+      "properties": {
+        "title": "02 Points of Interest",
+        "class": "Folder",
+        "visible": true,
+        "labelVisible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cd0bb453-e3fa-4a10-8a51-6b0b7cb50345",
+      "geometry": null,
+      "properties": {
+        "title": "01 Safety Issues",
+        "class": "Folder",
+        "visible": true,
+        "labelVisible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "af636aa8-f73b-4df9-93f0-d492144d18ff",
+      "geometry": null,
+      "properties": {
+        "title": "OP1 - Marks",
+        "class": "Folder",
+        "visible": true,
+        "labelVisible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0d31cf6b-f280-49e4-a753-49bf1391f480",
+      "geometry": null,
+      "properties": {
+        "title": "OP1 - Water Tracks",
+        "class": "Folder",
+        "visible": true,
+        "labelVisible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "425cb82a-3f2f-43d0-8b78-3514d707fc04",
+      "geometry": null,
+      "properties": {
+        "title": "OP1 - Ground Tracks",
+        "class": "Folder",
+        "visible": true,
+        "labelVisible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f584df39-f016-4b8f-96ad-c5b68fa9b4e5",
+      "geometry": null,
+      "properties": {
+        "title": "OP1 - Air Tracks",
+        "class": "Folder",
+        "visible": true,
+        "labelVisible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d1c994a8-f377-4704-809f-e2ea3e5b10b3",
+      "geometry": null,
+      "properties": {
+        "title": "OP1 Travel Tracks",
+        "class": "Folder",
+        "visible": false,
+        "labelVisible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "74f0538b-7804-448a-a0a2-c331ac199c49",
+      "geometry": null,
+      "properties": {
+        "title": "Custom Maps",
+        "class": "Folder",
+        "visible": true,
+        "labelVisible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f6b19874-7462-4832-a4a2-4e99c296cc9d",
+      "geometry": null,
+      "properties": {
+        "title": "Clues - Active",
+        "class": "Folder",
+        "visible": true,
+        "labelVisible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a1ea2dca-4ec9-47ef-8e3a-6cc58eece51c",
+      "geometry": null,
+      "properties": {
+        "title": "Clues - Discounted",
+        "class": "Folder",
+        "visible": false,
+        "labelVisible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ca0403d1-43ff-461c-a469-96e56eaf9620",
+      "geometry": null,
+      "properties": {
+        "title": "LPB - Profile Name (rename me)",
+        "class": "Folder",
+        "visible": true,
+        "labelVisible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "66055697-3c26-4e3f-95cf-4a3c3ecae230",
+      "geometry": null,
+      "properties": {
+        "title": "Segmentation",
+        "class": "Folder",
+        "visible": true,
+        "labelVisible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "03c5d42e-8f2e-40fe-ab4a-f87a721be496",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.68162615667774, 45.85004163434368, 0, 0]
+      },
+      "properties": {
+        "title": "Dummy Placed",
+        "description": "As markers are created, you should move them out of this folder into the correct one. Before it gets too full.",
+        "class": "Marker",
+        "marker-symbol": "point",
+        "marker-color": "FF00CD",
+        "marker-size": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "79900ea4-8af6-45ec-bba2-acf2cdcdfa2a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.65828181211982, 45.96877086665929, 0, 0]
+      },
+      "properties": {
+        "title": "Critical Points Help",
+        "description": "LKP/PLS/IPP\nICP location\nStaging areas\nHelispots and heliports\nRIT staging\nBase or do you include that as staging\n",
+        "folderId": "1057064f-85d0-4ec3-8f54-46e5289556a0",
+        "class": "Marker",
+        "marker-symbol": "point",
+        "marker-color": "FF00CD",
+        "marker-size": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "43b55fc0-430e-4d5d-870b-8e88286289dd",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.04579094155298, 45.93032993115826, 0, 0]
+      },
+      "properties": {
+        "title": "Safety Issues Help",
+        "description": "Markers, polygons, or other notes about known safety hazards",
+        "folderId": "cd0bb453-e3fa-4a10-8a51-6b0b7cb50345",
+        "class": "Marker",
+        "marker-symbol": "point",
+        "marker-color": "FF00CD",
+        "marker-size": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "35edcdf8-75c1-4d74-b669-29901bc97589",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.72124965366135, 47.70653903714484, 0, 0]
+      },
+      "properties": {
+        "title": "Local Knowledge Help",
+        "description": "Information about routes, trails, terrain",
+        "folderId": "5a130ab5-098c-4374-9c75-2adf020bbe87",
+        "class": "Marker",
+        "marker-symbol": "point",
+        "marker-color": "FF00CD",
+        "marker-size": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8913ce7b-a459-4bfb-a329-18cf9a118e3b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-65.8933545758504, 45.541179835424416, 0, 0]
+      },
+      "properties": {
+        "title": "LPB Help",
+        "description": "Range rings for distance from IPP\nDispersion angle\nTrack Offset",
+        "folderId": "ca0403d1-43ff-461c-a469-96e56eaf9620",
+        "class": "Marker",
+        "marker-symbol": "point",
+        "marker-color": "FF00CD",
+        "marker-size": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0c1c5b1a-a731-41d6-826a-155b7049cfe5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-68.1092836360593, 47.76919632870667, 0, 0]
+      },
+      "properties": {
+        "title": "POI Help",
+        "description": "Marks, areas, or routes that may be of interest to the subject (reflectors)",
+        "folderId": "70bc39d2-7831-4b74-894d-4f7cd3f58092",
+        "class": "Marker",
+        "marker-symbol": "point",
+        "marker-color": "FF00CD",
+        "marker-size": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "833bd573-387f-4c8a-91fb-55ba55fbda3d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.24806404929565, 46.00390660587959, 0, 0]
+      },
+      "properties": {
+        "title": "Cloning Help",
+        "description": "To clone this map: \nClick EXPORT, then for FORMAT select \"COPY TO NEW MAP\"\nYou can delete the help points to clean up your map as needed.",
+        "folderId": "1057064f-85d0-4ec3-8f54-46e5289556a0",
+        "class": "Marker",
+        "marker-symbol": "point",
+        "marker-color": "FF00CD",
+        "marker-size": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7a4ff39c-209a-49ad-8fc2-cffb31e9f096",
+      "geometry": null,
+      "properties": {
+        "title": "OP1",
+        "class": "OperationalPeriod",
+        "stroke": "#FF0000",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#FF0000",
+        "fill-opacity": 0.1
+      }
+    }
+  ]
+}

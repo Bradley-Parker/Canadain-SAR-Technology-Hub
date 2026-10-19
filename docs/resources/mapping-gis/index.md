@@ -18,6 +18,17 @@ This section contains operational templates, workflows, and standards for search
 ---
 
 ## Resources in this Category
-*Resources will appear here as pages are added to `docs/resources/mapping-gis/`.*
+
+<div class="grid cards" markdown>
+
+-   :material-map-legend:{ .lg .middle } **[CalTopo (SARTopo) Incident Map Template](caltopo-sar-incident-template.md)**
+
+    ---
+
+    A field-tested folder layout and downloadable map templates (Clean & Guided) for CalTopo, built from BC SAR best practices.
+
+    [:material-arrow-right: View Guide & Templates](caltopo-sar-incident-template.md)
+
+</div>
 
 - To add a new mapping tool, see the [Contribution Guide](../../contributing/index.md).

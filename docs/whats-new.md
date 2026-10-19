@@ -13,6 +13,13 @@ For minor typo corrections or administrative site fixes, see the [Git Commit His
 
 ### October 2026
 
+???+ note "October 19, 2026 — CalTopo SAR Incident Map Template & Folder Standard"
+    **What Changed:** Added standardized CalTopo (SARTopo) incident map template and folder hierarchy guidelines, downloadable Clean and Guided GeoJSON template assets, and deployment SOPs aligned with SAR Command Assist and BCSARA best practices.
+
+    - **Scope:** New operational guide under Mapping & GIS, along with two independent downloadable GeoJSON assets (`caltopo-sar-template-clean.geojson` and `caltopo-sar-template-guided.geojson`).
+    - **Resource:** [:material-arrow-right-circle: CalTopo Incident Map Template](resources/mapping-gis/caltopo-sar-incident-template.md)
+    - **Technical Diff:** [:octicons-git-commit-16: View Commit History](https://github.com/Bradley-Parker/Canadain-SAR-Technology-Hub/commits/main){ .md-button }
+
 ???+ note "October 18, 2026 — Hub Launch & Foundational Guidelines"
     **What Changed:** Initial release of the Canadian SAR Technology Hub structure, editorial standards, taxonomy standards, and operational category directories.
 
