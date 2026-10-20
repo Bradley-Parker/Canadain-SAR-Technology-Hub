@@ -61,7 +61,7 @@ All content is compiled from the real-world experiences of active searchers, inc
 
 - **Instant Search**: Press ++slash++ or click the search box above to search tools, equipment, procedures, and tags instantly.
 - **Browse by Tags & Region**: Filter resources by specific tags or provincial jurisdictions in the **[Tags Index](tags.md)**.
-- **Operational Files**: Download GeoJSON overlays, incident briefing forms, and device profiles from the **[File Downloads](downloads/index.md)** library.
+- **Operational Files**: Download GeoJSON overlays, incident briefing forms, and device profiles from the **[File Downloads](contributing/file-downloads.md)** library.
 
 ---
 
