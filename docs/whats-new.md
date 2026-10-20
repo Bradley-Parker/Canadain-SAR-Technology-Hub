@@ -13,6 +13,13 @@ For minor typo corrections or administrative site fixes, see the [Git Commit His
 
 ### October 2026
 
+???+ note "October 19, 2026 — SAR Duty: D4H Administration Tool"
+    **What Changed:** Added a new **Team Administration** resource category and a guide to SAR Duty — a free, open-source tool built by a BC SAR volunteer that automates tax credit letters (SRVTC), digital member ID cards, door attendance, and mileage tracking for teams using D4H.
+
+    - **Scope:** New category (`Team Administration`) and new resource page for SAR Duty.
+    - **Resource:** [:material-arrow-right-circle: SAR Duty — D4H Administration Tool](resources/team-administration/sar-duty.md)
+    - **Technical Diff:** [:octicons-git-commit-16: View Commit History](https://github.com/Bradley-Parker/Canadain-SAR-Technology-Hub/commits/main){ .md-button }
+
 ???+ note "October 19, 2026 — CalTopo SAR Incident Map Template & Folder Standard"
     **What Changed:** Added standardized CalTopo (SARTopo) incident map template and folder hierarchy guidelines, downloadable Clean and Guided GeoJSON template assets, and deployment SOPs aligned with SAR Command Assist and BCSARA best practices.
 

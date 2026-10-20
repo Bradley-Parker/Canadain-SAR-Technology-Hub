@@ -7,7 +7,7 @@ description: Library of field-ready SAR downloads including GeoJSON layers, GPX 
 
 The Canadian SAR Technology Hub maintains a central library of field-ready files, templates, and profiles for ground search and rescue operations. These resources are designed to be imported directly into incident command systems, mapping software, and field devices.
 
-Supporting files are also linked directly within their respective guides across the **[Resources](../index.md#resource-categories)** section.
+Supporting files are also linked directly within their respective guides across the **[Resources](../index.md#operational-categories)** section.
 
 ---
 
