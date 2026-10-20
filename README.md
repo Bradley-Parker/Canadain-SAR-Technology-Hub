@@ -4,7 +4,7 @@ A community-maintained, open-source directory of Ground Search and Rescue (GSAR)
 
 The website is generated automatically from this repository's Markdown files and published statically to **GitHub Pages**.
 
-[View the live Canadian SAR Technology Hub (GitHub Pages)](https://bradley-parker.github.io/Canadain-SAR-Technology-Hub/)
+[View the live Canadian SAR Technology Hub (GitHub Pages)](https://bradley-parker.github.io/Canadian-SAR-Technology-Hub/)
 
 ---
 
