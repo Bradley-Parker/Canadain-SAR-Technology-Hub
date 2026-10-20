@@ -71,6 +71,9 @@ nav:
           - CalTopo Incident Map Template: resources/mapping-gis/caltopo-sar-incident-template.md
       - Communications: resources/communications/index.md
       - Search Management: resources/search-management/index.md
+      - Team Administration:
+          - resources/team-administration/index.md
+          - SAR Duty: resources/team-administration/sar-duty.md
       - Field Hardware: resources/field-hardware/index.md
       - Training & Standards: resources/training-standards/index.md
       - Medical & Evacuation: resources/medical-evacuation/index.md
