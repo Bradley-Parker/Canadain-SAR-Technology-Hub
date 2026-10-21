@@ -18,6 +18,15 @@ This section contains planning tools, statistical models, and operational framew
 ---
 
 ## Resources in this Category
-*Resources will appear here as pages are added to `docs/resources/search-management/`.*
 
-- To add a new search management resource, see the [Contribution Guide](../../contributing/index.md).
+<div class="grid cards" markdown>
+
+-   :material-clipboard-text-clock:{ .lg .middle } **SAR Command Assist**
+
+    ---
+
+    A free Windows app that automates ICS forms and team assignments during a live SAR task. Type something once and the app puts it everywhere — subject profile, SMEAC briefing, ops plan, and IAP.
+
+    [:material-arrow-right: View Resource](sar-command-assist.md){ .md-button .md-button--primary }
+
+</div>

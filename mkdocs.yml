@@ -70,7 +70,9 @@ nav:
           - resources/mapping-gis/index.md
           - CalTopo Incident Map Template: resources/mapping-gis/caltopo-sar-incident-template.md
       - Communications: resources/communications/index.md
-      - Search Management: resources/search-management/index.md
+      - Search Management:
+          - resources/search-management/index.md
+          - SAR Command Assist: resources/search-management/sar-command-assist.md
       - Team Administration:
           - resources/team-administration/index.md
           - SAR Duty: resources/team-administration/sar-duty.md

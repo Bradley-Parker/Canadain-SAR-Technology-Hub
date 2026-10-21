@@ -13,6 +13,13 @@ For minor typo corrections or administrative site fixes, see the [Git Commit His
 
 ### October 2026
 
+???+ note "October 20, 2026 — SAR Command Assist"
+    **What Changed:** Added a new resource guide for **SAR Command Assist (SAR Assist)** — a free Windows application that automates the full ICS paperwork stack during a live SAR task. Covers ICS forms, reflex tasking, IAP generation, remote Internet Sync collaboration, D4H member import, communications logging, and the My SAR Assist mobile barcode sign-in companion app.
+
+    - **Scope:** New resource page under Search Management.
+    - **Resource:** [:material-arrow-right-circle: SAR Command Assist — ICS Paperwork Made Faster](resources/search-management/sar-command-assist.md)
+    - **Technical Diff:** [:octicons-git-commit-16: View Commit History](https://github.com/Bradley-Parker/Canadain-SAR-Technology-Hub/commits/main){ .md-button }
+
 ???+ note "October 19, 2026 — SAR Duty: D4H Administration Tool"
     **What Changed:** Added a new **Team Administration** resource category and a guide to SAR Duty — a free, open-source tool built by a BC SAR volunteer that automates tax credit letters (SRVTC), digital member ID cards, door attendance, and mileage tracking for teams using D4H.
 
